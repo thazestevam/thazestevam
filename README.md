@@ -3,7 +3,7 @@
 Meu nome é Thais Rocha Estevam
 
 - Estou estudando na Alura
-- Estou me desenbvolvenddo na linguagem JavaScript
+- Estou me desenvolvenddo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e para o compartilhamneto dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 
